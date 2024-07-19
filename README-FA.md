@@ -23,8 +23,8 @@
 1. **کلون کردن ریپازیتوری**
 
    ```sh
-   git clone https://github.com/yourusername/PhoneLookupBot.git
-   cd PhoneLookupBot
+   git clone https://github.com/clonerdev/Telegram-Phone-Lookup-Bot.git
+   cd Telegram-Phone-Lookup-Bot
    ```
 
 2. **ایجاد و فعال‌سازی محیط مجازی**
