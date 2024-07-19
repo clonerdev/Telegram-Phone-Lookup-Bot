@@ -23,8 +23,8 @@ The Telegram Phone Lookup Bot is a Telegram bot that allows you to query phone n
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/PhoneLookupBot.git
-   cd PhoneLookupBot
+   git clone https://github.com/clonerdev/Telegram-Phone-Lookup-Bot.git
+   cd Telegram-Phone-Lookup-Bot
    ```
 
 2. **Create and Activate a Virtual Environment**
